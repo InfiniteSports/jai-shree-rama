@@ -31,9 +31,9 @@ async def grp_bd(bot, message):
     reply_markup=InlineKeyboardMarkup(buttons)
     vazha = await db.get_chat(message.chat.id)
     k = await message.reply(
-        text=f"CHAT NOT ALLOWED 🐞\n\nMy admins has restricted me from working here ! If you want to know more about it contact support..\nReason : <code>{vazha['reason']}</code>.",
+        text=f"CHAT NOT ALLOWED 🐞\n\nMy admins has restricted me from working here ! If you want to know more about it contact support..\nReason : <code>{ಕಾರಣ ['reason']}</code>.",
         reply_markup=reply_markup)
-    try:
+    try: 
         await k.pin()
     except:
         pass
