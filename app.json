@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Kushalhk/TG_BOTZ",
-    "repository": "https://github.com/Kushalhk/TG_BOTZ",
+    "website": "https://github.com/InfiniteSports/autofilterbot",
+    "repository": "https://github.com/InfiniteSports/autofilterbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
