@@ -3,9 +3,9 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/InfiniteSports/jai-shree-rama?style=flat-square&color=blue)](https://github.com/Kushalhk/TG_BOTZ)
-[![Forks](https://img.shields.io/github/forks/InfiniteSports/jai-shree-rama?style=flat-square&color=red)](https://github.com/Kushalhk/TG_BOTZ/fork)
-[![Size](https://img.shields.io/github/repo-size/InfiniteSports/jai-shree-rama?style=flat-square&color=orange)](https://github.com/Kushalhk/TG_BOTZ)   
+[![Stars](https://img.shields.io/github/stars/InfiniteSports/jai-shree-rama?style=flat-square&color=blue)](https://github.com/InfiniteSports/jai-shree-rama)
+[![Forks](https://img.shields.io/github/forks/InfiniteSports/jai-shree-rama?style=flat-square&color=red)](https://github.com/InfiniteSports/jai-shree-rama/fork)
+[![Size](https://img.shields.io/github/repo-size/InfiniteSports/jai-shree-rama?style=flat-square&color=orange)](https://github.com/InfiniteSports/jai-shree-rama)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/InfiniteSports/jai-shree-rama)   
 [![Contributors](https://img.shields.io/github/contributors/InfiniteSports/jai-shree-rama?style=flat-square&color=pink)](https://github.com/InfiniteSports/jai-shree-rama/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/InfiniteSports/jai-shree-rama/blob/stream-feature/LICENSE)
