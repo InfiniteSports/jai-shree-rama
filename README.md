@@ -78,13 +78,13 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Kushalhk/TG_BOTZ/blob/stream-feature/info.py) for more optional variables
+* Check [info.py](https://github.com/InfiniteSports/jai-shree-rama/blob/stream-feature/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Kushalhk/TG_BOTZ">
+<a href="https://heroku.com/deploy?template=https://github.com/InfiniteSports/jai-shree-rama">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -123,7 +123,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Kushalhk/TG_BOTZ/tree/stream-feature">
+<a href="https://render.com/deploy?repo=https://github.com/InfiniteSports/jai-shree-rama/tree/stream-feature">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -131,7 +131,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Kushalhk/TG_BOTZ
+git clone https://github.com/InfiniteSports/jai-shree-rama
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
