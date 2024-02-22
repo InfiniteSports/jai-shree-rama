@@ -38,6 +38,3 @@ async def chat_gpt(bot, message):
     except Exception as e:
         await message.reply_text(f"**á´‡Ê€Ê€á´Ê€: {e} ")
          
-print("BOT SUCCESSFULLY DEPLOYED !!")
-
-app.run()
